@@ -1,6 +1,6 @@
 {
-  "version": "1.2.7",
-  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.2.7/jarvis-1.2.7.zip",
-  "sha256": "6fe0f223f9086d747a665b0c0171d7390e5dc2ad32dadd5b50f9afd5fd3d4e68",
-  "notes": "Darmowy czat z lokalnym AI (Ollama, qwen2.5:7b), przycisk AI w HUD, pobieranie modelu jednym kliknięciem"
+  "version": "1.2.8",
+  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.2.8/jarvis-1.2.8.zip",
+  "sha256": "c18370cc556e7e78bf468dc88a6173d0891a2fa88a4061cc0dbbcf08d2029fc3",
+  "notes": "Jarvis dostał prawdziwe akcje: zmiana kolorów dymków i akcentu, ustawień, obrazy, silnik, aktualizacje. Nie wymyśla już komend i nie udaje wykonania. Mniej zbędnych odmów. Nowość: Prośby do sztabu w Ustawieniach."
 }
