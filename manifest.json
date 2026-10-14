@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.2.2/jarvis-1.2.2.zip",
-  "sha256": "a24211758af7daa49244fb480cd4e9533d7bee7fbc0f987a319500db52aa13f1",
-  "notes": "Jarvis 1.2.2 — aktualizacja z GitHub.\nPo kliknięciu „Zaktualizuj” aplikacja pobierze paczkę, sprawdzi sumę kontrolną i uruchomi się ponownie."
+  "version": "1.2.3",
+  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.2.3/jarvis-1.2.3.zip",
+  "sha256": "760f7198fc72bab92fca035775dd7d550d6e1c5e18fa1a7179e48b489082ffa2",
+  "notes": "Jarvis 1.2.3 — Samozniszczenie.\n\n• Czerwony przycisk „Samozniszczenie” w Ustawieniach i w menu tray\n• Po PIN (1234) usuwa Jarvisa, dane aplikacji i ComfyUI z komputera\n• Nigdy nie uruchamia się samo\n\nPo aktualizacji: tray → Sprawdź aktualizacje → Zaktualizuj, potem możesz przetestować Samozniszczenie (ostrożnie — kasuje pliki)."
 }
