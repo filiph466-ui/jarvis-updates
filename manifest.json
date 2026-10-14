@@ -1,6 +1,6 @@
 {
-  "version": "1.2.8",
-  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.2.8/jarvis-1.2.8.zip",
-  "sha256": "c18370cc556e7e78bf468dc88a6173d0891a2fa88a4061cc0dbbcf08d2029fc3",
-  "notes": "Jarvis dostał prawdziwe akcje: zmiana kolorów dymków i akcentu, ustawień, obrazy, silnik, aktualizacje. Nie wymyśla już komend i nie udaje wykonania. Mniej zbędnych odmów. Nowość: Prośby do sztabu w Ustawieniach."
+  "version": "1.2.9",
+  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.2.9/jarvis-1.2.9.zip",
+  "sha256": "26efd79a2f31348a75bbd1f109c2de31541852065d4e1231372c6197d631129f",
+  "notes": "Jarvis 1.2.9 — aktualizacja z GitHub.\nPo kliknięciu „Zaktualizuj” aplikacja pobierze paczkę, sprawdzi sumę kontrolną i uruchomi się ponownie."
 }
