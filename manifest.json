@@ -1,6 +1,6 @@
 {
-  "version": "1.2.5",
-  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.2.5/jarvis-1.2.5.zip",
-  "sha256": "dc89f1acc3e47925b4c51e777a07184468ae850fae4575fa342af0c338460062",
-  "notes": "Jarvis 1.2.5 — upscale (hi-res fix).\n\n• Ustawienia → „Lepsza jakość (upscale)” (domyślnie wyłączone)\n• Stock ComfyUI: LatentUpscale + drugi KSampler (denoise ~0.45)\n• Domyślny cel 1536 px (max 1792 na 8 GB VRAM)\n• Działa z Juggernaut XL i Lightning — bez custom nodów\n\nPo aktualizacji: Ustawienia → włącz upscale → Zapisz → /obraz …"
+  "version": "1.2.6",
+  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.2.6/jarvis-1.2.6.zip",
+  "sha256": "e613da00f6e70b07b3167ef14cda59b314df149b788358e7e04a8966c546b541",
+  "notes": "Jarvis 1.2.6 — lepsza anatomia / realizm.\n\n• Mocniejszy negative dla Quality (dłonie, palce, proporcje, twarz)\n• Quality: 32 kroki, CFG 5.5, dpmpp_2m_sde + karras\n• „Realizm anatomii” (domyślnie ON): przy promptach o osobach dopina krótki EN ogonek — bez przepisywania tekstu\n• W UI: „Wzmocniony realizm anatomii”\n\nPo aktualizacji: Ustawienia → Jakość (Juggernaut XL) → upewnij się, że Realizm anatomii jest włączony → /obraz kobieta …"
 }
