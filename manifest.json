@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.2.3/jarvis-1.2.3.zip",
-  "sha256": "760f7198fc72bab92fca035775dd7d550d6e1c5e18fa1a7179e48b489082ffa2",
-  "notes": "Jarvis 1.2.3 — Samozniszczenie.\n\n• Czerwony przycisk „Samozniszczenie” w Ustawieniach i w menu tray\n• Po PIN (1234) usuwa Jarvisa, dane aplikacji i ComfyUI z komputera\n• Nigdy nie uruchamia się samo\n\nPo aktualizacji: tray → Sprawdź aktualizacje → Zaktualizuj, potem możesz przetestować Samozniszczenie (ostrożnie — kasuje pliki)."
+  "version": "1.2.4",
+  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.2.4/jarvis-1.2.4.zip",
+  "sha256": "493ef4c8c8826f5cb006158ad657fe4198696e51599e0e3b1d2e844d651bd836",
+  "notes": "Jarvis 1.2.4 — lepsza jakość obrazów.\n\n• Presety w Ustawieniach: „Szybki (Lightning)” i „Jakość (Juggernaut XL)”\n• Jakość: 28 kroków, CFG 5.5, dpmpp_2m + karras, mocny negative prompt\n• Checkpoint: Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors (pobierz z HuggingFace — instrukcja w README)\n\nPo aktualizacji: Ustawienia → Jakość (Juggernaut XL) → Zapisz. Jeśli nie masz jeszcze modelu, pobierz go do ComfyUI\\models\\checkpoints\\."
 }
