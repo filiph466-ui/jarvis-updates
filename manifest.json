@@ -1,6 +1,6 @@
 {
   "version": "1.2.1",
   "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.2.1/jarvis-1.2.1.zip",
-  "sha256": "8389f1fc60833b346920210a37de4699131d231f6d2c9d7ca3db0fd857bb90bb",
+  "sha256": "abd46ac467ae8d726912eed7f50e4d7900898bac7211f772ac97357d1a7393e2",
   "notes": "Jarvis 1.2.1 — aktualizacja z GitHub.\nPo kliknięciu „Zaktualizuj” aplikacja pobierze paczkę, sprawdzi sumę kontrolną i uruchomi się ponownie."
 }
