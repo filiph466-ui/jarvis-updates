@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.3.0/jarvis-1.3.0.zip",
-  "sha256": "1776694b7900db8775465cb0052fdf903a944574722b9a8487565b79f3b2f438",
-  "notes": "Jarvis 1.3.0 — tryb bez cenzury.\n• Nowy model czatu bez zbędnych odmów (huihui_ai/qwen2.5-abliterate:7b, ~4,7 GB) — przy pierwszej wiadomości kliknij „Pobierz model”.\n• Szczery styl: bez moralizowania i ostrzeżeń, przekleństwa i tematy dla dorosłych OK.\n• Obrazy: nagość dorosłych dozwolona, stałe zabezpieczenie przed nieletnimi.\n• Wyłączenie: Ustawienia → „Tryb bez cenzury”."
+  "version": "1.3.1",
+  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.3.1/jarvis-1.3.1.zip",
+  "sha256": "7d2ac95af7a8bd63c6b40b94d2c41bbc7e85d62c44d44377c23453f245ede63b",
+  "notes": "Jarvis 1.3.1 — nowy wygląd.\n• Animacja startowa J.A.R.V.I.S. (kliknij, aby pominąć; wyłączysz w Ustawieniach → Ogólne).\n• Ekran startowy z kafelkiem „Generator obrazów”: opis, tryb Szybki/Jakość, rozdzielczość, galeria z podglądem, ponownym generowaniem, usuwaniem i otwieraniem folderu.\n• Ustawienia pod ikoną ⚙, zakładka „O programie” z wersją. Numer wersji widoczny w nagłówku.\n• Brak Ollamy nie powoduje już błędów.\n• Pewniejsze aktualizacje: sprawdzanie plików na dysku, ponawianie przy zablokowanych plikach, poprawiony restart."
 }
