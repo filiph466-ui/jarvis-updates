@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
-  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.3.1/jarvis-1.3.1.zip",
-  "sha256": "7d2ac95af7a8bd63c6b40b94d2c41bbc7e85d62c44d44377c23453f245ede63b",
-  "notes": "Jarvis 1.3.1 — nowy wygląd.\n• Animacja startowa J.A.R.V.I.S. (kliknij, aby pominąć; wyłączysz w Ustawieniach → Ogólne).\n• Ekran startowy z kafelkiem „Generator obrazów”: opis, tryb Szybki/Jakość, rozdzielczość, galeria z podglądem, ponownym generowaniem, usuwaniem i otwieraniem folderu.\n• Ustawienia pod ikoną ⚙, zakładka „O programie” z wersją. Numer wersji widoczny w nagłówku.\n• Brak Ollamy nie powoduje już błędów.\n• Pewniejsze aktualizacje: sprawdzanie plików na dysku, ponawianie przy zablokowanych plikach, poprawiony restart."
+  "version": "1.3.2",
+  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.3.2/jarvis-1.3.2.zip",
+  "sha256": "9d76daecfa45498040ac6a802838a367635cd2e5efc5d497a29919ec8cd2cbd9",
+  "notes": "Jarvis 1.3.2 — nowy kafelek „Edytor zdjęć”: zmieniasz istniejące zdjęcie poleceniem po polsku (np. „zmień kolor koszulki na czerwony”), suwak przed/po, cofnij/ponów, pędzel do zaznaczania, zapis do galerii. Jednorazowa instalacja modelu jednym przyciskiem (~12,5 GB). Galeria: kosz na miniaturze, zaznaczanie wielu i „Usuń zaznaczone”."
 }
