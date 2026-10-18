@@ -1,6 +1,6 @@
 {
-  "version": "1.3.3",
-  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.3.3/jarvis-1.3.3.zip",
-  "sha256": "9720c71c7f398b52731ee9dc09e14db60174acde6d2d9ea91580ed8755809d19",
-  "notes": "Jarvis 1.3.3 — Edytor zdjęć: łagodniejszy filtr. Teraz przepuszcza zmianę ubrań na strój kąpielowy, bikini, bieliznę, obcisłe i krótkie ciuchy, crop top, sukienki, zmianę figury (szczuplejsza, bardziej umięśniona), fryzury, makijażu, tatuaży i opalenizny oraz zdejmowanie dodatków (okulary, czapka, kurtka). Blokowane jest tylko rozbieranie do nagości i treści seksualne."
+  "version": "1.3.4",
+  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.3.4/jarvis-1.3.4.zip",
+  "sha256": "8fa45645e365c620825076a6a192e644917b3dc271d0c3ea7d5b49655e4c3af1",
+  "notes": "Jarvis 1.3.4 — Edytor: rozpoznawanie pochodzenia zdjęć (Wygenerowane w Jarvisie / Plik z zewnątrz) po zawartości pliku. Powiększanie biustu i pośladków oraz pełniejsza figura (w ubraniu) tylko na postaciach z Generatora Jarvisa. Wczytywanie: plik, przeciągnij, Ctrl+V, Z galerii."
 }
