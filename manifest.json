@@ -1,6 +1,6 @@
 {
-  "version": "1.3.4",
-  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.3.4/jarvis-1.3.4.zip",
-  "sha256": "8fa45645e365c620825076a6a192e644917b3dc271d0c3ea7d5b49655e4c3af1",
-  "notes": "Jarvis 1.3.4 — Edytor: rozpoznawanie pochodzenia zdjęć (Wygenerowane w Jarvisie / Plik z zewnątrz) po zawartości pliku. Powiększanie biustu i pośladków oraz pełniejsza figura (w ubraniu) tylko na postaciach z Generatora Jarvisa. Wczytywanie: plik, przeciągnij, Ctrl+V, Z galerii."
+  "version": "1.3.5",
+  "url": "https://github.com/filiph466-ui/jarvis-updates/releases/download/v1.3.5/jarvis-1.3.5.zip",
+  "sha256": "8938997489e242ec4b5b883b1445d36a1a5c3f986399ef70fb83df1af75848b4",
+  "notes": "Edytor: naprawiony błąd „Failed to fetch” przy zapisie wyniku, prawdziwe powiększanie x2/x4 (4x-UltraSharp), automatyczne powiększanie małych zdjęć, „popraw jakość” na całym zdjęciu, dziennik logs/editor.log"
 }
